@@ -1,0 +1,26 @@
+{
+  "metadata_rows": 3131,
+  "missing_pdf": 0,
+  "empty_pdf_text": 0,
+  "used_snippet": 0,
+  "dropped_short": 32,
+  "dropped_leak": 0,
+  "dropped_label": 0,
+  "kept": 3099,
+  "sample_rows": 36,
+  "date_min": "2022-05-17",
+  "date_max": "2026-10-06",
+  "upheld_rate": 0.3701193933526944,
+  "median_chars": 1242.0,
+  "products": {
+    "Banking and Payments": 871,
+    "Insurance": 747,
+    "Consumer Credit": 416,
+    "Pensions and Annuities": 310,
+    "Investments": 235,
+    "PPI": 176,
+    "Claims Management": 140,
+    "Funeral plans": 108,
+    "Mortgages": 96
+  }
+}

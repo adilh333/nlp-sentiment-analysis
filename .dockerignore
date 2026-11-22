@@ -1,0 +1,13 @@
+.git
+.github
+data/cache
+data/interim
+data/processed
+data/raw
+models/transformer
+notebooks
+**/__pycache__
+**/.ipynb_checkpoints
+**/.pytest_cache
+*.md
+!README.md

@@ -1,0 +1,78 @@
+{
+  "false_positives": [
+    {
+      "reference": "DRN-6567019",
+      "date": "2026-10-01",
+      "product": "Insurance",
+      "business": "esure Insurance Limited",
+      "upheld": 0,
+      "probability": 0.58,
+      "quote": "Mr K complains that esure Insurance Limited mishandled a claim he made on his vehicle insurance policy. esure is the underwriter of this policy, i.e. the insurer. Part of this complaint concerns the actions of esure's agents. Since esure accepts it is accountable for the actions "
+    },
+    {
+      "reference": "DRN-6544754",
+      "date": "2026-09-30",
+      "product": "Pensions and Annuities",
+      "business": "St. James's Place Wealth Management Plc",
+      "upheld": 0,
+      "probability": 0.567,
+      "quote": "Mr G has complained that St James's Place Wealth Management Plc (\u201cSJP\u201d) gave him unsuitable advice when it recommended he not transfer his Defined Benefits (\u201cDB\u201d) pension scheme in 2021. The Cash Equivalent Transfer Value (\u201cCETV\u201d) for the pension has now dropped by around \u00a3300,00"
+    },
+    {
+      "reference": "DRN-6270605",
+      "date": "2026-10-05",
+      "product": "Insurance",
+      "business": "Admiral Insurance (Gibraltar) Limited",
+      "upheld": 0,
+      "probability": 0.553,
+      "quote": "Mr L and Mrs L are unhappy their claim for accidental damage was unfairly declined by Admiral Insurance (Gibraltar) Limited (\u201cAdmiral\u201d) under their home insurance policy. Mrs L made a claim when her window cleaner accidentally scratched her sliding doors. Admiral sent a surveyor "
+    },
+    {
+      "reference": "DRN-6480312",
+      "date": "2026-10-02",
+      "product": "Insurance",
+      "business": "AXA Insurance UK Plc",
+      "upheld": 0,
+      "probability": 0.531,
+      "quote": "Mr K is unhappy with how AXA Insurance UK Plc (\u201cAXA\u201d) handled his escape of water claim, which he said led to delays and hardship for his family. AXA were providing a home insurance policy. Mr K made a claim following a pipe had leaked at his property. Mr K was unhappy with the t"
+    }
+  ],
+  "false_negatives": [
+    {
+      "reference": "DRN-6667729",
+      "date": "2026-10-06",
+      "product": "Insurance",
+      "business": "AXA PPP Healthcare Limited",
+      "upheld": 1,
+      "probability": 0.142,
+      "quote": "Mr A is unhappy with the premium increases made by AXA PPP Healthcare Limited ('AXA') to his private medical insurance policy ('the policy'). He says they're not calculated transparently. The details of this complaint are well known to both parties, so I won't repeat them again h"
+    },
+    {
+      "reference": "DRN-6649614",
+      "date": "2026-10-05",
+      "product": "Insurance",
+      "business": "British Friendly Society Limited",
+      "upheld": 1,
+      "probability": 0.145,
+      "quote": "Ms A is unhappy that British Friendly Society Limited disclosed her personal information when contacting her employer, after she'd made a claim on her income protection policy ('the policy'). The details of this complaint are well known to both parties, so I won't repeat them aga"
+    },
+    {
+      "reference": "DRN-6602547",
+      "date": "2026-10-01",
+      "product": "Insurance",
+      "business": "Aviva Insurance Limited",
+      "upheld": 1,
+      "probability": 0.162,
+      "quote": "Mr M is unhappy that Aviva Insurance Limited (Aviva) has cancelled his mobile insurance policy. Any reference to Aviva includes its agents. Mr M held a mobile phone insurance policy, underwritten by Aviva. In February 2026, he claimed for a stolen phone, which Aviva accepted and "
+    },
+    {
+      "reference": "DRN-6449727",
+      "date": "2026-10-01",
+      "product": "Insurance",
+      "business": "Forester Life Limited",
+      "upheld": 1,
+      "probability": 0.165,
+      "quote": "Mr A complains Forester Life Limited mis-sold him a personal income protection insurance policy. The circumstances surrounding Mr A's complaint are well known to both parties, so I will not repeat them in detail here. Instead, I have summarised what I consider to be the key point"
+    }
+  ]
+}
