@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.egg-info/
+
+# Local corpus: full decisions are not republished
+data/cache/
+data/interim/
+data/processed/
+data/raw/
+
+# Trained transformer weights (classical baselines under models/baseline are committed)
+models/transformer/
+models/**/*.bin
+models/**/*.safetensors
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

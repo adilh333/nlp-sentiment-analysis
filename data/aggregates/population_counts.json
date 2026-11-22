@@ -1,0 +1,891 @@
+{
+  "source": "https://www.financial-ombudsman.org.uk/businesses/resolving-complaint/ombudsman-decisions/search",
+  "note": "Figures are the hit counts reported by the FOS decisions search. They count published final ombudsman decisions, not every complaint a firm received. Keyword counts overlap and are not a partition.",
+  "date_to_cap": "2026-11-21",
+  "by_year_sector": [
+    {
+      "year": 2018,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 10098,
+      "upheld": 3009,
+      "not_upheld": 7089
+    },
+    {
+      "year": 2018,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 2653,
+      "upheld": 867,
+      "not_upheld": 1786
+    },
+    {
+      "year": 2018,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 5549,
+      "upheld": 1841,
+      "not_upheld": 3708
+    },
+    {
+      "year": 2018,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 15511,
+      "upheld": 6856,
+      "not_upheld": 8655
+    },
+    {
+      "year": 2018,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 0,
+      "upheld": 0,
+      "not_upheld": 0
+    },
+    {
+      "year": 2018,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 0,
+      "upheld": 0,
+      "not_upheld": 0
+    },
+    {
+      "year": 2018,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 33811,
+      "upheld": 12573,
+      "not_upheld": 21238
+    },
+    {
+      "year": 2019,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 10616,
+      "upheld": 3732,
+      "not_upheld": 6884
+    },
+    {
+      "year": 2019,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 2056,
+      "upheld": 690,
+      "not_upheld": 1366
+    },
+    {
+      "year": 2019,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 5839,
+      "upheld": 2043,
+      "not_upheld": 3796
+    },
+    {
+      "year": 2019,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 8313,
+      "upheld": 1689,
+      "not_upheld": 6624
+    },
+    {
+      "year": 2019,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 111,
+      "upheld": 43,
+      "not_upheld": 68
+    },
+    {
+      "year": 2019,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 0,
+      "upheld": 0,
+      "not_upheld": 0
+    },
+    {
+      "year": 2019,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 26940,
+      "upheld": 8197,
+      "not_upheld": 18743
+    },
+    {
+      "year": 2020,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 13622,
+      "upheld": 5176,
+      "not_upheld": 8446
+    },
+    {
+      "year": 2020,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 2239,
+      "upheld": 740,
+      "not_upheld": 1499
+    },
+    {
+      "year": 2020,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 7214,
+      "upheld": 2573,
+      "not_upheld": 4641
+    },
+    {
+      "year": 2020,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 4751,
+      "upheld": 471,
+      "not_upheld": 4280
+    },
+    {
+      "year": 2020,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 217,
+      "upheld": 96,
+      "not_upheld": 121
+    },
+    {
+      "year": 2020,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 0,
+      "upheld": 0,
+      "not_upheld": 0
+    },
+    {
+      "year": 2020,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 28052,
+      "upheld": 9061,
+      "not_upheld": 18991
+    },
+    {
+      "year": 2021,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 13667,
+      "upheld": 5203,
+      "not_upheld": 8464
+    },
+    {
+      "year": 2021,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 2522,
+      "upheld": 911,
+      "not_upheld": 1611
+    },
+    {
+      "year": 2021,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 7820,
+      "upheld": 2732,
+      "not_upheld": 5088
+    },
+    {
+      "year": 2021,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 5647,
+      "upheld": 618,
+      "not_upheld": 5029
+    },
+    {
+      "year": 2021,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 177,
+      "upheld": 61,
+      "not_upheld": 116
+    },
+    {
+      "year": 2021,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 0,
+      "upheld": 0,
+      "not_upheld": 0
+    },
+    {
+      "year": 2021,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 29837,
+      "upheld": 9525,
+      "not_upheld": 20312
+    },
+    {
+      "year": 2022,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 16133,
+      "upheld": 5786,
+      "not_upheld": 10347
+    },
+    {
+      "year": 2022,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 3330,
+      "upheld": 1383,
+      "not_upheld": 1947
+    },
+    {
+      "year": 2022,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 7216,
+      "upheld": 2634,
+      "not_upheld": 4582
+    },
+    {
+      "year": 2022,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 533,
+      "upheld": 67,
+      "not_upheld": 466
+    },
+    {
+      "year": 2022,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 110,
+      "upheld": 60,
+      "not_upheld": 50
+    },
+    {
+      "year": 2022,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 3,
+      "upheld": 0,
+      "not_upheld": 3
+    },
+    {
+      "year": 2022,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 27327,
+      "upheld": 9931,
+      "not_upheld": 17396
+    },
+    {
+      "year": 2023,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 14446,
+      "upheld": 5048,
+      "not_upheld": 9398
+    },
+    {
+      "year": 2023,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 3873,
+      "upheld": 2139,
+      "not_upheld": 1734
+    },
+    {
+      "year": 2023,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 7752,
+      "upheld": 3641,
+      "not_upheld": 4111
+    },
+    {
+      "year": 2023,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 126,
+      "upheld": 30,
+      "not_upheld": 96
+    },
+    {
+      "year": 2023,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 37,
+      "upheld": 28,
+      "not_upheld": 9
+    },
+    {
+      "year": 2023,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 34,
+      "upheld": 10,
+      "not_upheld": 24
+    },
+    {
+      "year": 2023,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 26268,
+      "upheld": 10896,
+      "not_upheld": 15372
+    },
+    {
+      "year": 2024,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 17251,
+      "upheld": 6223,
+      "not_upheld": 11028
+    },
+    {
+      "year": 2024,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 2826,
+      "upheld": 1295,
+      "not_upheld": 1531
+    },
+    {
+      "year": 2024,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 7473,
+      "upheld": 3538,
+      "not_upheld": 3935
+    },
+    {
+      "year": 2024,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 20,
+      "upheld": 2,
+      "not_upheld": 18
+    },
+    {
+      "year": 2024,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 20,
+      "upheld": 13,
+      "not_upheld": 7
+    },
+    {
+      "year": 2024,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 26,
+      "upheld": 11,
+      "not_upheld": 15
+    },
+    {
+      "year": 2024,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 27617,
+      "upheld": 11082,
+      "not_upheld": 16535
+    },
+    {
+      "year": 2025,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 21357,
+      "upheld": 5847,
+      "not_upheld": 15510
+    },
+    {
+      "year": 2025,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 2386,
+      "upheld": 956,
+      "not_upheld": 1430
+    },
+    {
+      "year": 2025,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 8041,
+      "upheld": 3138,
+      "not_upheld": 4903
+    },
+    {
+      "year": 2025,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 17,
+      "upheld": 3,
+      "not_upheld": 14
+    },
+    {
+      "year": 2025,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 16,
+      "upheld": 6,
+      "not_upheld": 10
+    },
+    {
+      "year": 2025,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 31,
+      "upheld": 14,
+      "not_upheld": 17
+    },
+    {
+      "year": 2025,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 31849,
+      "upheld": 9965,
+      "not_upheld": 21884
+    },
+    {
+      "year": 2026,
+      "sector_id": 1,
+      "sector": "Banking, credit and mortgages",
+      "total": 21686,
+      "upheld": 4406,
+      "not_upheld": 17280
+    },
+    {
+      "year": 2026,
+      "sector_id": 2,
+      "sector": "Investment and pensions",
+      "total": 1769,
+      "upheld": 589,
+      "not_upheld": 1180
+    },
+    {
+      "year": 2026,
+      "sector_id": 3,
+      "sector": "Insurance (excluding PPI)",
+      "total": 6712,
+      "upheld": 2109,
+      "not_upheld": 4603
+    },
+    {
+      "year": 2026,
+      "sector_id": 4,
+      "sector": "Payment protection insurance (PPI)",
+      "total": 6,
+      "upheld": 1,
+      "not_upheld": 5
+    },
+    {
+      "year": 2026,
+      "sector_id": 5,
+      "sector": "Claims management",
+      "total": 17,
+      "upheld": 6,
+      "not_upheld": 11
+    },
+    {
+      "year": 2026,
+      "sector_id": 6,
+      "sector": "Funeral plans",
+      "total": 19,
+      "upheld": 9,
+      "not_upheld": 10
+    },
+    {
+      "year": 2026,
+      "sector_id": 0,
+      "sector": "All sectors",
+      "total": 30209,
+      "upheld": 7120,
+      "not_upheld": 23089
+    }
+  ],
+  "by_year_theme": [
+    {
+      "year": 2018,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 44
+    },
+    {
+      "year": 2018,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 44
+    },
+    {
+      "year": 2018,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 15
+    },
+    {
+      "year": 2018,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 1033
+    },
+    {
+      "year": 2018,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 496
+    },
+    {
+      "year": 2018,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 910
+    },
+    {
+      "year": 2019,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 52
+    },
+    {
+      "year": 2019,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 24
+    },
+    {
+      "year": 2019,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 26
+    },
+    {
+      "year": 2019,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 766
+    },
+    {
+      "year": 2019,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 533
+    },
+    {
+      "year": 2019,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 1655
+    },
+    {
+      "year": 2020,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 65
+    },
+    {
+      "year": 2020,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 35
+    },
+    {
+      "year": 2020,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 31
+    },
+    {
+      "year": 2020,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 743
+    },
+    {
+      "year": 2020,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 837
+    },
+    {
+      "year": 2020,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 2976
+    },
+    {
+      "year": 2021,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 54
+    },
+    {
+      "year": 2021,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 34
+    },
+    {
+      "year": 2021,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 196
+    },
+    {
+      "year": 2021,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 1210
+    },
+    {
+      "year": 2021,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 1315
+    },
+    {
+      "year": 2021,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 2127
+    },
+    {
+      "year": 2022,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 55
+    },
+    {
+      "year": 2022,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 46
+    },
+    {
+      "year": 2022,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 387
+    },
+    {
+      "year": 2022,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 563
+    },
+    {
+      "year": 2022,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 2382
+    },
+    {
+      "year": 2022,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 2593
+    },
+    {
+      "year": 2023,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 102
+    },
+    {
+      "year": 2023,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 47
+    },
+    {
+      "year": 2023,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 693
+    },
+    {
+      "year": 2023,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 408
+    },
+    {
+      "year": 2023,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 2064
+    },
+    {
+      "year": 2023,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 2030
+    },
+    {
+      "year": 2024,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 101
+    },
+    {
+      "year": 2024,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 80
+    },
+    {
+      "year": 2024,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 1166
+    },
+    {
+      "year": 2024,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 503
+    },
+    {
+      "year": 2024,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 1770
+    },
+    {
+      "year": 2024,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 2409
+    },
+    {
+      "year": 2025,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 121
+    },
+    {
+      "year": 2025,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 264
+    },
+    {
+      "year": 2025,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 1992
+    },
+    {
+      "year": 2025,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 593
+    },
+    {
+      "year": 2025,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 2179
+    },
+    {
+      "year": 2025,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 3462
+    },
+    {
+      "year": 2026,
+      "theme": "motor_finance_commission",
+      "label": "Motor finance commission",
+      "keyword": "motor finance commission",
+      "total": 408
+    },
+    {
+      "year": 2026,
+      "theme": "discretionary_commission",
+      "label": "Discretionary commission",
+      "keyword": "discretionary commission",
+      "total": 1516
+    },
+    {
+      "year": 2026,
+      "theme": "app_scam",
+      "label": "Authorised push payment scams",
+      "keyword": "authorised push payment",
+      "total": 1465
+    },
+    {
+      "year": 2026,
+      "theme": "packaged_account",
+      "label": "Packaged bank accounts",
+      "keyword": "packaged bank account",
+      "total": 418
+    },
+    {
+      "year": 2026,
+      "theme": "section_75",
+      "label": "Section 75 claims",
+      "keyword": "section 75",
+      "total": 3429
+    },
+    {
+      "year": 2026,
+      "theme": "irresponsible_lending",
+      "label": "Irresponsible lending",
+      "keyword": "irresponsible lending",
+      "total": 3686
+    }
+  ]
+}

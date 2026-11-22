@@ -1,0 +1,19 @@
+{
+  "product_labels": [
+    "Banking and Payments",
+    "Claims Management",
+    "Consumer Credit",
+    "Funeral plans",
+    "Insurance",
+    "Investments",
+    "Mortgages",
+    "PPI",
+    "Pensions and Annuities"
+  ],
+  "uphold_threshold": 0.275,
+  "priority_cuts": {
+    "high": 0.4,
+    "medium": 0.275
+  },
+  "disclaimer": "Scores are statistical comparisons with published ombudsman decisions. They are not a determination under DISP and they are not a substitute for reading the case."
+}
